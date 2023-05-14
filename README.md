@@ -1,16 +1,1 @@
-# bri_cabin
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot from 2023-05-14 13-46-42](https://github.com/Shruti78/bri_cabin/assets/104200088/3e658a72-bd49-4ce5-8873-c728dd6f693b)
